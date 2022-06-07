@@ -1,0 +1,30 @@
+#cabecera {
+	 box-shadow: 5px -3px 14px 1px rgba(43,9,237,0.78);
+	 background-color: #1cb0e6;
+	 color: white;
+	 text-shadow: 1px 1px 2px black;
+	 border-radius: 51px 0px 51px 0px;
+	 border: 4px double #000000;
+	 font-size: 20px;
+}
+
+#articulo {
+	color: green;
+	font-size: 1em;
+}
+
+.subtitulo {
+	color: purple;
+	box-shadow: 10px 8px 0px 5px;
+	border: 2px solid;
+}
+
+.parrafo {
+	color: red;
+}
+
+.correo {
+	padding: 3px;
+	border: 2px solid;
+	box-shadow: 3px 5px 0px 2px;
+}
